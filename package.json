@@ -15,6 +15,9 @@
         "type": "git",
         "url": "https://github.com/alphnsus/n8n-nodes-helloworld.git"
     },
+    "publishConfig": {
+        "access": "public"
+    },
     "scripts": {
         "build": "n8n-node build",
         "build:watch": "tsc --watch",

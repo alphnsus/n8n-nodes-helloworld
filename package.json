@@ -1,6 +1,6 @@
 {
     "name": "@alphnsus/n8n-nodes-helloworld",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "n8n community node for JSONPlaceholder API",
     "license": "MIT",
     "homepage": "",
